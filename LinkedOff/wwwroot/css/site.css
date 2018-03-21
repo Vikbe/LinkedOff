@@ -1,0 +1,17 @@
+﻿body {
+}
+
+.registerForm {
+    padding: 20px;
+    margin: auto; 
+    width: 15%;
+    border: 2px black inset;
+    display: inline-block;
+    text-align: center;
+} 
+
+.registerForm input[type=submit] { 
+    padding: 10px;
+    margin: 10px; 
+    
+}
